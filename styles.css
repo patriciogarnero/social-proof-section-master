@@ -44,15 +44,11 @@ h6 {
 
 .rating {
   margin: 1rem 0 1rem 0;
-  padding: 1rem 0 1rem 0;
+  padding: 1rem 0 1rem 1rem;
   line-height: 1.5rem;
   background-color: hsl(300, 24%, 96%);
   border-radius: 10px;
   color: hsl(300, 43%, 22%);
-}
-
-.rating p {
-  font-weight: 700;
 }
 
 .container2 {
@@ -128,7 +124,7 @@ body {
   }
 
   .rating {
-    padding: 0;
+    padding: 0 0 0 1rem;
     margin: 1rem 0 1rem 0;
   }
 
